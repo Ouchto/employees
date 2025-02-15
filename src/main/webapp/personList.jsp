@@ -10,7 +10,7 @@
 </head>
 <body>
 <div class="container mt-5">
-    <h2 class="text-center mb-4">La liste d'Employées </h2>
+    <h2 class="text-center mb-4">La liste d'Employees </h2>
 
     <table class="table table-bordered table-striped">
         <thead class="thead-dark">
@@ -50,7 +50,7 @@
         </tbody>
     </table>
 
-    <a href="createPerson" class="btn btn-success">Créer un Employée</a>
+    <a href="createPerson" class="btn btn-success">Creer un Employee</a>
 </div>
 
 
